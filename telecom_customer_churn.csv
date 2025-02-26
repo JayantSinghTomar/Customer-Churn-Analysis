@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,PhoneService,InternetService,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+ID1,Male,0,Yes,No,Yes,DSL,Month-to-month,Electronic check,29.85,150.65,No
+ID2,Female,1,No,Yes,Yes,Fiber optic,One year,Mailed check,56.95,568.75,Yes
+ID3,Male,0,Yes,No,Yes,No,Two year,Bank transfer (automatic),53.85,620.9,No
+ID4,Female,1,No,Yes,Yes,DSL,Month-to-month,Credit card (automatic),42.3,800.5,Yes
+ID5,Male,0,Yes,No,Yes,Fiber optic,Month-to-month,Electronic check,70.5,999.1,No
+ID6,Female,1,No,Yes,Yes,DSL,One year,Mailed check,88.15,1200.75,Yes
+ID7,Male,0,Yes,No,Yes,Fiber optic,Two year,Bank transfer (automatic),99.65,1405.6,No
+ID8,Female,1,No,Yes,Yes,No,Month-to-month,Credit card (automatic),105.75,1600.8,Yes
+ID9,Male,0,Yes,No,Yes,DSL,Month-to-month,Electronic check,65.3,1805.45,No
+ID10,Female,1,No,Yes,Yes,Fiber optic,One year,Mailed check,78.95,2000.6,Yes
+ID11,Male,0,Yes,No,Yes,DSL,Two year,Bank transfer (automatic),90.1,2205.8,No
+ID12,Female,1,No,Yes,Yes,Fiber optic,Month-to-month,Credit card (automatic),55.45,2400.95,Yes
+ID13,Male,0,Yes,No,Yes,No,Month-to-month,Electronic check,60.25,2600.3,No
+ID14,Female,1,No,Yes,Yes,DSL,One year,Mailed check,80.3,2805.1,Yes
+ID15,Male,0,Yes,No,Yes,Fiber optic,Two year,Bank transfer (automatic),95.2,3000.4,No
+ID16,Female,1,No,Yes,Yes,DSL,Month-to-month,Credit card (automatic),110.65,3200.6,Yes
+ID17,Male,0,Yes,No,Yes,Fiber optic,Month-to-month,Electronic check,120.75,3405.8,No
+ID18,Female,1,No,Yes,Yes,No,One year,Mailed check,130.4,3600.75,Yes
+ID19,Male,0,Yes,No,Yes,DSL,Two year,Bank transfer (automatic),140.5,3800.9,No
+ID20,Female,1,No,Yes,Yes,Fiber optic,Month-to-month,Credit card (automatic),150.75,4005.1,Yes
